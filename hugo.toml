@@ -4,4 +4,4 @@ title = 'My New Hugo Site'
 
 theme        = "hello-friend-ng"
 paginate     = 10
-publishDir = "docs"
+#publishDir = "docs"
